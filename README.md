@@ -45,25 +45,3 @@ Fullstack Python Developer & DevOps Engineer at [wbbots.ru](https://wbbots.ru)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)  ![Uptime Kuma](https://img.shields.io/badge/uptime%20kuma-%235CDD8B.svg?style=for-the-badge&logo=uptime-kuma&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=rootperemotka&theme=gruvbox&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rootperemotka&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rootperemotka&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=rootperemotka&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
