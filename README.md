@@ -1,6 +1,13 @@
+
 # 💫 About Me:
 
-Fullstack Python Developer & DevOps Engineer at [wbbots.ru](https://wbbots.ru)`<br><br>`🏠 Running home server infrastructure`<br>`🔧 Projects: [ccn.rest](https://ccn.rest) / [dash.ccn.rest](https://dash.ccn.rest)`<br>`🐧 Arch Linux power user (btw I use Arch)`<br>`⚙️ Linux systems expert | Infrastructure automation`<br>`🤖 Hobby: ML Engineering, Data Science, Home Lab
+Fullstack Python Developer & DevOps Engineer at [wbbots.ru](https://wbbots.ru)
+
+🏠 Running home server infrastructure  
+🔧 Projects: [ccn.rest](https://ccn.rest) / [dash.ccn.rest](https://dash.ccn.rest)  
+🐧 Arch Linux power user (btw I use Arch)  
+⚙️ Linux systems expert | Infrastructure automation  
+🤖 Hobby: ML Engineering, Data Science, Home Lab
 
 ---
 
@@ -32,7 +39,7 @@ Fullstack Python Developer & DevOps Engineer at [wbbots.ru](https://wbbots.ru)`<
 
 ### DevOps & Infrastructure
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Zerotier](https://img.shields.io/badge/zerotier-%23FFA500.svg?style=for-the-badge&logo=zerotier&logoColor=white) ![OPNsense](https://img.shields.io/badge/opnsense-%23D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white) ![pfSense](https://img.shields.io/badge/pfsense-%23212121.svg?style=for-the-badge&logo=pfsense&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Traefik](https://img.shields.io/badge/traefik-%2324A1C1.svg?style=for-the-badge&logo=traefikproxy&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Zerotier](https://img.shields.io/badge/zerotier-%23FFA500.svg?style=for-the-badge&logo=zerotier&logoColor=white) ![OPNsense](https://img.shields.io/badge/opnsense-%23D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white) ![pfSense](https://img.shields.io/badge/pfsense-%23212121.svg?style=for-the-badge&logo=pfsense&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Traefik](https://img.shields.io/badge/traefik-%2324A1C1.svg?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 ### CI/CD & Monitoring
 
@@ -55,3 +62,9 @@ Fullstack Python Developer & DevOps Engineer at [wbbots.ru](https://wbbots.ru)`<
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rootperemotka&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=rootperemotka&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
