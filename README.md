@@ -14,7 +14,7 @@ Fullstack Python Developer & DevOps Engineer at [wbbots.ru](https://wbbots.ru)
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/rootperemotka/rootperemotka/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/rootperemotka/rootperemotka/output/github-contribution-grid-snake-dark.svg?t=1)
 
 </div>
 
