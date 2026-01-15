@@ -1,16 +1,13 @@
-# 💫 About Me:
+## About Me
+Fullstack Python Developer & DevOps Engineer at wbbots.ru
 
-Fullstack Python Developer & DevOps Engineer at [wbbots.ru](https://wbbots.ru)
-
-🏠 Running home server infrastructure
-🔧 Projects: [ccn.rest](https://ccn.rest) / [dash.ccn.rest](https://dash.ccn.rest)
-🐧 Arch Linux power user (btw I use Arch)
-⚙️ Linux systems expert | Infrastructure automation
-🤖 Hobby: ML Engineering, Data Science, Home Lab
+Running home server infrastructure
+Projects: ccn.rest / dash.ccn.rest
+Arch Linux power user (btw I use Arch)
+Linux systems expert | Infrastructure automation
+Hobby: ML Engineering, Data Science, Home Lab
 
 ---
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -20,13 +17,13 @@ Fullstack Python Developer & DevOps Engineer at [wbbots.ru](https://wbbots.ru)
 
 ---
 
-## 🌐 Socials:
+## Socials:
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:peremotka@ccn.rest) [![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://gitlab.com/rootperemotka) [![Matrix](https://img.shields.io/badge/Matrix-000000?logo=matrix&logoColor=white)](https://matrix.to/#/@peremotka:ccn.rest)
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ### Languages
 
