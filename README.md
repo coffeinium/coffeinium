@@ -12,6 +12,6 @@ production services, internal tooling, observability, networking and the occasio
 ### lab
 
 **ccn.rest**
-homelab / self-hosting / networking / infrastructure experiments
+HomeDataCenter / self-hosting / networking / infrastructure experiments
 
 [enter →](https://ccn.rest)
